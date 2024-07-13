@@ -3,6 +3,7 @@ def area_tri(base, height):
     print("the area is: " + str(area))
 
 area_tri(6, 3)
+area_tri(3, 9)
 
 # This above code is only added to practice merging a branch on Git Hub. The above code is for the Area program.
 
